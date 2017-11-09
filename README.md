@@ -9,6 +9,7 @@ It is homework 2 of data strcture in NCTU
 <pre>
 
 1. Specially, I Construct a struct which is named “Node”, set list<Node> chain and an iterator points to list<Node>
+ 
 <img src="https://github.com/marsii1017/NCTU_DS_2017__Hw2/blob/master/pic_1.PNG" width="500"> 
 
 2. Utilize the way of ifstream, we can get the chain.name.
